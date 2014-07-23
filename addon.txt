@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+        "name"              "ULXURLNotice"
+        "version"           "1.0"
+        "author_name"       "The Realist"
+        "author_email"      ""
+        "info"              "Opens a predefined URL on a person through a ULX command"
+        "override"          "0"
+}
